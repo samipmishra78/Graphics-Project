@@ -1,2 +1,0 @@
-# Grpahics-Project
-Stickman landing 
